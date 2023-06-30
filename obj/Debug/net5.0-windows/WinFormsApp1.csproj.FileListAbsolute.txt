@@ -1,0 +1,36 @@
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Mcintosh\Downloads\WinForms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Mcintosh\Downloads\WinForms\убегающая кнопка\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
